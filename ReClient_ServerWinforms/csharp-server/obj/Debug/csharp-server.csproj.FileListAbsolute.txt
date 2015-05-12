@@ -1,0 +1,5 @@
+C:\Users\JAVED\documents\visual studio 2013\Projects\ReClient_ServerWinforms\csharp-server\bin\Debug\csharp-server.exe.config
+C:\Users\JAVED\documents\visual studio 2013\Projects\ReClient_ServerWinforms\csharp-server\bin\Debug\csharp-server.exe
+C:\Users\JAVED\documents\visual studio 2013\Projects\ReClient_ServerWinforms\csharp-server\bin\Debug\csharp-server.pdb
+C:\Users\JAVED\documents\visual studio 2013\Projects\ReClient_ServerWinforms\csharp-server\obj\Debug\csharp-server.exe
+C:\Users\JAVED\documents\visual studio 2013\Projects\ReClient_ServerWinforms\csharp-server\obj\Debug\csharp-server.pdb
